@@ -36,3 +36,4 @@ void fadeall() {
     leds[i].nscale8(250);
   }
 }
+DELETE
